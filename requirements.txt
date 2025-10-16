@@ -1,6 +1,7 @@
 streamlit
+opencv-python
+numpy
+pandas
+joblib
 tensorflow
 scikit-learn
-pandas
-numpy
-joblib
